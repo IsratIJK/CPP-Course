@@ -7,4 +7,4 @@
 3. [Variables](Variables.cpp)
 4. [Data type](DataType.cpp)
 5. [Working with string](WorkingWithString.cpp)
-6. [Working with numbers](WorkingWithNumbers.cpp)
+6. [Working with numbers](workingWithNumbers.cpp)
