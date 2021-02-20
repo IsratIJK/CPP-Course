@@ -9,3 +9,4 @@
 5. [Working with string](WorkingWithString.cpp)
 6. [Working with numbers](workingWithNumbers.cpp)
 7. [Getting user input](GettingUserInput.cpp)
+8. [Building calculator](BuildingCalculator.cpp)
