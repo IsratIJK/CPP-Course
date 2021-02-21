@@ -10,3 +10,4 @@
 6. [Working with numbers](workingWithNumbers.cpp)
 7. [Getting user input](GettingUserInput.cpp)
 8. [Building calculator](BuildingCalculator.cpp)
+9. [Building a madlibs](BuildingAMadlibs.cpp)
