@@ -11,3 +11,4 @@
 7. [Getting user input](GettingUserInput.cpp)
 8. [Building calculator](BuildingCalculator.cpp)
 9. [Building a madlibs](BuildingAMadLibs.cpp)
+10. [Working with array](Array.cpp)
